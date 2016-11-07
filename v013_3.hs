@@ -1,0 +1,1 @@
+mostrarVocales frase = [ letra | letra <- frase, letra `elem` ['a','e','i','o','u']]
