@@ -1,0 +1,1 @@
+cuentaCifras lista = [ if x<10 then "una cifra" else "dos cifras" | x <-lista , odd x ]
