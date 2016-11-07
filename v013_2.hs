@@ -1,0 +1,1 @@
+longitud lista =  sum [1|  x <- lista]
